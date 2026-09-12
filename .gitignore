@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Build/Release
+dist/
+build/
+*.zip
+*.rar
+*.tar.gz
+
+# Game directories (users should manage their own GameData)
+[Gg]ame[Dd]ata/[Oo]ther*/
+[Gg]ame[Dd]ata/[Ss]quad/
+[Gg]ame[Dd]ata/[Pp]art[Tt]ools/
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+
+# Version control
+.git/
+.gitkeep

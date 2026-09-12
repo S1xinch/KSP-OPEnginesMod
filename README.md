@@ -28,6 +28,11 @@ This mod replaces several stock KSP engines with significantly upgraded "OP" (ov
 6. **Mini Jet Mk2** - Enhanced compact jet engine
    - Lightweight air-breathing propulsion
 
+7. **LV-N Mk2 "Prometheus"** - Nuclear thermal engine
+   - Liquid Fuel only, no Oxidizer required
+   - Extreme specific impulse for efficient vacuum and long-range propulsion
+   - Built on the R.A.P.I.E.R. Mk2 airframe
+
 ## Prerequisites
 
 ### Required
@@ -88,6 +93,7 @@ Each engine features:
 - The RAPIER Mk2.5 is excellent for SSTO (Single Stage To Orbit) designs
 - Jet engines perform best at high speeds and lower altitudes
 - Ion engines are ideal for low-thrust, long-duration missions
+- The Prometheus nuclear engine excels at vacuum burns and long-range transfers
 - All engines are designed for sandbox mode gameplay
 
 ## Configuration Files
